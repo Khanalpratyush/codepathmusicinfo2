@@ -1,10 +1,10 @@
 # Web Development Project 5 - *Spotify Hack 1.0*
 
-Submitted by: **Aditya Karki**
+Submitted by: **Pratyush Khanal**
 
 This web app: **A fully responsive web application which uses Spotify Web API to manipulate the data of artists and their albums in the spotify database. It implements advanced features like dashboard layout, filter, and sort based on user's inputs**
 
-Time spent: **15** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -32,17 +32,14 @@ The following **additional** features are implemented:
 * [ ✓ ] Sorting algorithms like Selection sort was used for numerical as well as alphabetical sorting
 * [ ✓ ] Original state was preserved using 1 state variable which preserved original data and reset it when filter was not applied
 
-## Video 
-
-https://user-images.githubusercontent.com/68220732/228135037-dc0b529d-3fb5-4c35-965a-d73574b91adf.mp4
-
+<img src = ""> 
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Wondershare filmora and Imgur.
 
 ## License
 
-    Copyright [2023] [Aditya Karki]
+    Copyright [2023] [pratyushkhanal]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
