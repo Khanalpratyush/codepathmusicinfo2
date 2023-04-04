@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 * [ ✓ ] Sorting algorithms like Selection sort was used for numerical as well as alphabetical sorting
 * [ ✓ ] Original state was preserved using 1 state variable which preserved original data and reset it when filter was not applied
 
-<img src = ""> 
+<img src = "ezgif.com-video-to-gif (6).gif"> 
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Wondershare filmora and Imgur.
