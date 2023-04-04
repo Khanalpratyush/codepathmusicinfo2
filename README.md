@@ -2,7 +2,7 @@
 
 Submitted by: **Pratyush Khanal**
 
-This web app: **A fully responsive web application which uses Spotify Web API to manipulate the data of artists and their albums in the spotify database. It implements advanced features like dashboard layout, filter, and sort based on user's inputs**
+This web app: **A responsive web application which uses Spotify Web API **
 
 Time spent: **5** hours spent in total
 
